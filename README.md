@@ -1,6 +1,6 @@
 # SSH-Brute-Force-Detection-Lab
 
-This project demonstrates a simulated SSH brute-force attack from Kali Linux against a Windows machine with OpenSSH enabled. The attack is captured in Wireshark, and logs can be analyzed or sent to Splunk for detection testing.
+This project demonstrates a simulated SSH brute-force attack from Kali Linux against a Windows machine with OpenSSH enabled. The attack is captured in Wireshark, and logs can be analysed or sent to Splunk for detection testing.
 
 ---
 
@@ -76,9 +76,9 @@ This project demonstrates a simulated SSH brute-force attack from Kali Linux aga
 ---
 
 ## 📁 Files
-[bfcapture.zip](https://github.com/user-attachments/files/20993173/bfcapture.zip) : Full Wireshark capture of the attack
+[bfcapture.zip](https://github.com/user-attachments/files/20993173/bfcapture.zip) : Full Wireshark capture of the attack.
 
-* Screenshots of Hydra output and SSH login attempts
+![hydra bf](https://github.com/user-attachments/assets/602f333e-5fa9-4ee5-a334-921f1c6ebaf2) : Using Hydra to brute force.
 
 
 > **Note:** This lab was performed on an isolated virtual network and intended purely for educational and defensive purposes.
